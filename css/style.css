@@ -1,0 +1,17 @@
+h1{
+    color:blue;
+    text-align: center;
+    font-style: italic;
+}
+h6{
+    color:crimson
+}
+img{
+    border-radius: 50%;
+}
+#header{
+    color: darkviolet;
+    }
+.wrapper{
+    color: darkgreen;
+}
